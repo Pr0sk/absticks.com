@@ -556,7 +556,7 @@ for (var attr in meta) {
       theme_id: 121761399093,
       app_name: "storefront",
       context_url: window.location.href,
-      source_url: "//absticks.com/cdn/s/trekkie.storefront.72278931d43be9cf54de64f928f82f2eef1fa047.min.js"});
+      source_url: "https://absticks.com/cdn/s/trekkie.storefront.72278931d43be9cf54de64f928f82f2eef1fa047.min.js"});
 
         };
         scriptFallback.async = true;
@@ -597,7 +597,7 @@ for (var attr in meta) {
 
         var eventsListenerScript = document.createElement('script');
         eventsListenerScript.async = true;
-        eventsListenerScript.src = "//absticks.com/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
+        eventsListenerScript.src = "https://absticks.com/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
         document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
 
 })();</script>
@@ -913,7 +913,7 @@ for (var attr in meta) {
             </div>
           </div>
         </details>
-      </header-drawer><a href="../../fr" class="header__heading-link link link--text focus-inset"><img src="../../cdn/shop/files/logo.png?v=1665764351" alt="AB Sticks" srcset="//absticks.com/cdn/shop/files/logo.png?v=1665764351&amp;width=50 50w, //absticks.com/cdn/shop/files/logo.png?v=1665764351&amp;width=100 100w" width="80" height="80.0" class="header__heading-logo">
+      </header-drawer><a href="../../fr" class="header__heading-link link link--text focus-inset"><img src="../../cdn/shop/files/logo.png?v=1665764351" alt="AB Sticks" srcset="https://absticks.com/cdn/shop/files/logo.png?v=1665764351&amp;width=50 50w, //absticks.com/cdn/shop/files/logo.png?v=1665764351&amp;width=100 100w" width="80" height="80.0" class="header__heading-logo">
 </a><nav class="header__inline-menu">
           <ul class="list-menu list-menu--inline" role="list"><li><a href="../../fr" class="header__menu-item list-menu__item link link--text focus-inset">
                     <span>Accueil</span>
@@ -1555,7 +1555,7 @@ Article ajouté au panier</h2>
             <div class="media media--transparent media--hover-effect">
               
               <img
-                srcset="//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=165 165w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=360 360w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=533 533w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=720 720w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=940 940w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=1066 1066w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482 3000w
+                srcset="https://absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=165 165w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=360 360w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=533 533w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=720 720w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=940 940w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&width=1066 1066w,//absticks.com/cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482 3000w
                 "
                 src="../../cdn/shop/products/il_fullxfull.2521290750_cc4t.jpg?v=1665760482&amp;width=533"
                 sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
@@ -1672,7 +1672,7 @@ Article ajouté au panier</h2>
             <div class="media media--transparent media--hover-effect">
               
               <img
-                srcset="//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=165 165w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=360 360w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=533 533w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=720 720w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=940 940w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=1066 1066w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500 5780w
+                srcset="https://absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=165 165w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=360 360w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=533 533w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=720 720w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=940 940w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500&width=1066 1066w,//absticks.com/cdn/shop/products/vue-face-cropped.jpg?v=1669288500 5780w
                 "
                 src="../../cdn/shop/products/vue-face-cropped.jpg?v=1669288500&amp;width=533"
                 sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
@@ -1789,7 +1789,7 @@ Article ajouté au panier</h2>
             <div class="media media--transparent media--hover-effect">
               
               <img
-                srcset="//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=165 165w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=360 360w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=533 533w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=720 720w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=940 940w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=1066 1066w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028 2113w
+                srcset="https://absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=165 165w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=360 360w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=533 533w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=720 720w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=940 940w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&width=1066 1066w,//absticks.com/cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028 2113w
                 "
                 src="../../cdn/shop/files/GAC4ec-XwAACJdn.jpg?v=1707504028&amp;width=533"
                 sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
@@ -1908,7 +1908,7 @@ Article ajouté au panier</h2>
             <div class="media media--transparent media--hover-effect">
               
               <img
-                srcset="//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=165 165w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=360 360w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=533 533w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=720 720w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=940 940w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=1066 1066w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171 1773w
+                srcset="https://absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=165 165w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=360 360w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=533 533w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=720 720w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=940 940w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&width=1066 1066w,//absticks.com/cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171 1773w
                 "
                 src="../../cdn/shop/files/DSC03893-4r_63731dd1-cbfb-424d-a976-eab0c77b546a.jpg?v=1698773171&amp;width=533"
                 sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
@@ -2027,7 +2027,7 @@ Article ajouté au panier</h2>
             <div class="media media--transparent media--hover-effect">
               
               <img
-                srcset="//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=165 165w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=360 360w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=533 533w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=720 720w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=940 940w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=1066 1066w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651 1080w
+                srcset="https://absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=165 165w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=360 360w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=533 533w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=720 720w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=940 940w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651&width=1066 1066w,//absticks.com/cdn/shop/files/flag2.jpg?v=1717671651 1080w
                 "
                 src="../../cdn/shop/files/flag2.jpg?v=1717671651&amp;width=533"
                 sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
